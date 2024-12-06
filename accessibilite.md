@@ -2,6 +2,6 @@
 
 ``` vue
 	<v-text-field
-		title="nirField"
+		title="textFieldName"
 	/>
 ```
